@@ -1,0 +1,1 @@
+echo -e "node_modules/\n__pycache__/\n.env\n*.pkl\n.ipynb_checkpoints/" > .gitignore
